@@ -1,0 +1,78 @@
+@media (min-width: 376px) and (max-width: 667px) {
+  body {
+    background: url(../assets/img/dawn.png) no-repeat center;
+    margin: 110px;
+  }
+  .kitten {
+    background: url(../assets/img/kitten-medium.png);
+    width: 465px;
+    height: 285px;
+  }
+}
+
+@media (min-width: 667px) and (max-width: 1024px) {
+  body {
+    background: url(../assets/img/night.jpg) no-repeat center;
+  }
+  .kitten {
+    background: url(../assets/img/kitten-small.png);
+    width: 330px;
+    height: 285px;
+    margin: 207px 210px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1600px) {
+  body {
+    background: url(../assets/img/sunny-day.jpg) no-repeat center;
+    background-size: cover;
+    margin: 206px;
+  }
+ .kitten {
+    background: url(../assets/img/kitten-large.png);
+    width: 650px;
+    height: 285px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media (min-width: 1024px) and (max-width: 1600px) {
+  .sunny-day {
+    background-image: url(../assets/img/sunny-day.jpg);
+  }
+  .kitten-1 {
+    background-image: url(../assets/img/kitten-large.png);
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1199px) {
+  .sunny-day {
+    background-image: url(../assets/img/dawn.png);
+  }
+  .kitten-1 {
+    background-image: url(../assets/img/kitten-small.png);
+  }
+
+}
+
+@media (min-width: 900px) and (max-width: 1199px) {
+
+}*/
