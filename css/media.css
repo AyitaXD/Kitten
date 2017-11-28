@@ -1,4 +1,4 @@
-@media (min-width: 376px) and (max-width: 667px) {
+@media (max-width: 667px) {
   body {
     background: url(../assets/img/dawn.png) no-repeat center;
     margin: 110px;
